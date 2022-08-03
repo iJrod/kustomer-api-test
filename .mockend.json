@@ -7,7 +7,12 @@
       }
     },
     "companyName": {
-      "regexp": "[A-Z][a-z]{5,10}"
+      "string": [
+        "Big Corp",
+        "Small Corp",
+        "Office Inc",
+        "Remote Ltd"
+        ]
     },
     "stakeholder": {
     "string": [
