@@ -10,7 +10,12 @@
       "regexp": "[A-Z][a-z]{5,10}"
     },
     "stakeholder": {
-      "regexp": "[A-Z][a-z]{5,10}"
+    "string": [
+      "Thor",
+      "Loki",
+      "Batman",
+      "Superman",
+    ]
     },
     "role": {
       "string": [
@@ -21,7 +26,7 @@
       ]
     },
     "email": {
-      "regexp": "#[a-z]{5,10}@example\\.com"
+      "regexp": "[a-z]{5}@example\\.com"
     },
     "phone": {
       "string": {}
@@ -30,7 +35,7 @@
       "boolean": {}
     },
     "website": {
-    "regexp": "https://company\\.example.com/seed/"
+    "regexp": "https://[a-z]{5}\\.example\\.com"
     }
   }
 }
