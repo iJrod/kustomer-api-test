@@ -31,6 +31,6 @@
     },
     "website": {
     "regexp": "https://company\\.example.com/seed/"
-    },
+    }
   }
 }
