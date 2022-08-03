@@ -29,7 +29,7 @@
       "regexp": "[a-z]{5}@example\\.com"
     },
     "phone": {
-      "regexp": "07[0-10]{9}"
+      "regexp": "07[0-9]{9}"
     },
     "NDA": {
       "boolean": {}
